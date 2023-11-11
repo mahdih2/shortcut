@@ -1,0 +1,2 @@
+# shortcut
+sqlite project
