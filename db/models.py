@@ -1,9 +1,11 @@
 class DataTypes:
 
-    def char_field(self):
+    @staticmethod
+    def char_field():
         return 'varchar'
 
-    def integer_field(self):
+    @staticmethod
+    def integer_field():
         return 'int'
 
 models = DataTypes()
